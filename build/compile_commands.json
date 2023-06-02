@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ubuntu/data_struct/build",
+  "command": "/usr/bin/clang   -g   -o CMakeFiles/data_struct.dir/InsertSort.c.o   -c /home/ubuntu/data_struct/InsertSort.c",
+  "file": "/home/ubuntu/data_struct/InsertSort.c"
+}
+]

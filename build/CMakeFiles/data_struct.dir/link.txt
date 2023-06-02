@@ -1,0 +1,1 @@
+/usr/bin/clang -g  -rdynamic CMakeFiles/data_struct.dir/InsertSort.c.o  -o data_struct 
